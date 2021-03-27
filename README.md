@@ -1,4 +1,4 @@
-# Academic-Java
+# Inventory Management Software using an arraylist 
 This project creates an Inventory Management system, where one can make an account.
 There is an admin account
 When a user makes an account, that account can either be a manager or not. If the account is not a manager, accessibility is limited.
